@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510155419VPRWRN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605101554191TN1PG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA OPERACIÓN SALUD</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Producto Final</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Patricia Pérez Romero</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Análisis de etiquetas nutricionales para la creación de una revista digital educativa
+
+El proyecto “Operación salud” tiene como finalidad integrar las matemáticas y la educación para la salud mediante el análisis de operaciones con números decimales presentes en las etiquetas nutricionales de diferentes alimentos. A partir de la recolección e interpretación de datos como calorías, grasas, azúcares, sodio y proteínas, los estudiantes desarrollarán habilidades matemáticas y de pensamiento crítico para elaborar una revista digital informativa sobre alimentación saludable.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778421250985</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mozu3fiy-o7vkljd87</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fiy-o7vkljd87</odePageId>
+      <odeBlockId>block-1778326746838-rwm9wz8tq</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fiy-o7vkljd87</odePageId>
+          <odeBlockId>block-1778326746838-rwm9wz8tq</odeBlockId>
+          <odeIdeviceId>idevice-1778326746834-uhw0kuca8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong title="">TÍTULO DESCRIPTIVO: “OPERACIÓN SALUD”</strong></p>
+<p style="text-align: center;"><a href="https://canva.link/he21v91q8ckt5p5">https://canva.link/he21v91q8ckt5p5</a><strong></strong><strong></strong></p>
+<p><strong>Centro de interés o temática:</strong> números decimales, operaciones básicas, alimentación, promoción de hábitos de vida saludable y TIC.</p>
+<p><strong>Nivel al que va dirigido:</strong> 1.º ESO.</p>
+<p><strong>Temporalización aproximada:</strong> 14 sesiones.</p>
+<p><strong>Materia o materias implicadas:</strong> Matemáticas.</p>
+<p><strong>Idioma:</strong> Castellano.</p>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda / trabaje</strong><br />Los números decimales y sus operaciones básicas están presentes en muchas situaciones de la vida diaria, siendo una de ellas las vinculadas con el ámbito de la nutrición y la alimentación saludable. El manejo de los números decimales es imprescindible para analizar las etiquetas nutricionales de los productos que habitualmente consumimos. </p>
+<p>Teniendo esto en cuenta, la SdA persigue que junto con la comprensión de los conceptos matemáticos vinculados a los números decimales que el alumnado sea capaz de aplicarlos de forma significativa en la selección de los alimentos de consumo habitual, aspecto fundamental en la toma decisiones que afectan directamente a la generación y adopción de estilos de vida saludable, a la vez que se fomenta el uso de las nuevas tecnologías a través de la creación de una revista digital que recoja la información obtenida.<strong></strong></p>
+<p><strong>Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.</strong></p>
+<p><strong>Descripción: </strong>Se trata de una SdA que incorpora metodologías activas donde el alumnado es el protagonista del aprendizaje. Asimismo, incluye el uso de tecnologías tan necesarias en el día a día, contribuyendo al desarrollo del pensamiento computacional a través de la creación de una revista digital en Canva.</p>
+<p><strong>Sentimientos: </strong>Al tratarse de una SdA contextualizada donde se incorpora el uso de los números decimales en una situación real, fomentando el desarrollo del pensamiento matemático, así como de las nuevas tecnologías, contribuye a la promoción de un aprendizaje significativo y motivante para los alumnos/as.</p>
+<p><strong>Evaluación:</strong> En cuanto a la evaluación destacar que esta se centrará tanto en la competencia matemática como en el trabajo en grupo y el uso de las nuevas tecnologías, aspectos que confluyen para lograr alcanzar el producto final.</p>
+<p><strong>Análisis:</strong> Se incorporarán una sesión previa que permita analizar la aplicación digital a utilizar así como las herramientas digitales que se emplearán con el objetivo de que todo el alumnado se familiarice y pueda conocer de primera mano su uso, es decir, se garantizará que el alumnado conozca con detalle el uso de las diferentes herramientas digitales antes de utilizarlas, tratándose este de un aspecto a mejorar con respecto a otras intervenciones realizadas.</p>
+<p><strong>Conclusión:</strong> Se trata de una SdA que presenta un centro de interés relevante para el alumnado y que, a su vez, integra elementos transversales que deben ser abordados a lo largo de la etapa como son el desarrollo de la competencia lingüística, el uso de las herramientas digitales, así como el fomento de hábitos de vida saludables.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778326746834-uhw0kuca8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong title=\"\">TÍTULO DESCRIPTIVO: “OPERACIÓN SALUD”</strong></p>\n<p style=\"text-align: center;\"><a href=\"https://canva.link/he21v91q8ckt5p5\">https://canva.link/he21v91q8ckt5p5</a><strong></strong><strong></strong></p>\n<p><strong>Centro de interés o temática:</strong> números decimales, operaciones básicas, alimentación, promoción de hábitos de vida saludable y TIC.</p>\n<p><strong>Nivel al que va dirigido:</strong> 1.º ESO.</p>\n<p><strong>Temporalización aproximada:</strong> 14 sesiones.</p>\n<p><strong>Materia o materias implicadas:</strong> Matemáticas.</p>\n<p><strong>Idioma:</strong> Castellano.</p>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda / trabaje</strong><br />Los números decimales y sus operaciones básicas están presentes en muchas situaciones de la vida diaria, siendo una de ellas las vinculadas con el ámbito de la nutrición y la alimentación saludable. El manejo de los números decimales es imprescindible para analizar las etiquetas nutricionales de los productos que habitualmente consumimos. </p>\n<p>Teniendo esto en cuenta, la SdA persigue que junto con la comprensión de los conceptos matemáticos vinculados a los números decimales que el alumnado sea capaz de aplicarlos de forma significativa en la selección de los alimentos de consumo habitual, aspecto fundamental en la toma decisiones que afectan directamente a la generación y adopción de estilos de vida saludable, a la vez que se fomenta el uso de las nuevas tecnologías a través de la creación de una revista digital que recoja la información obtenida.<strong></strong></p>\n<p><strong>Justificación de la elección sobre la base de la rutina de pensamiento elaborada en la tarea 1.1.</strong></p>\n<p><strong>Descripción: </strong>Se trata de una SdA que incorpora metodologías activas donde el alumnado es el protagonista del aprendizaje. Asimismo, incluye el uso de tecnologías tan necesarias en el día a día, contribuyendo al desarrollo del pensamiento computacional a través de la creación de una revista digital en Canva.</p>\n<p><strong>Sentimientos: </strong>Al tratarse de una SdA contextualizada donde se incorpora el uso de los números decimales en una situación real, fomentando el desarrollo del pensamiento matemático, así como de las nuevas tecnologías, contribuye a la promoción de un aprendizaje significativo y motivante para los alumnos/as.</p>\n<p><strong>Evaluación:</strong> En cuanto a la evaluación destacar que esta se centrará tanto en la competencia matemática como en el trabajo en grupo y el uso de las nuevas tecnologías, aspectos que confluyen para lograr alcanzar el producto final.</p>\n<p><strong>Análisis:</strong> Se incorporarán una sesión previa que permita analizar la aplicación digital a utilizar así como las herramientas digitales que se emplearán con el objetivo de que todo el alumnado se familiarice y pueda conocer de primera mano su uso, es decir, se garantizará que el alumnado conozca con detalle el uso de las diferentes herramientas digitales antes de utilizarlas, tratándose este de un aspecto a mejorar con respecto a otras intervenciones realizadas.</p>\n<p><strong>Conclusión:</strong> Se trata de una SdA que presenta un centro de interés relevante para el alumnado y que, a su vez, integra elementos transversales que deben ser abordados a lo largo de la etapa como son el desarrollo de la competencia lingüística, el uso de las herramientas digitales, así como el fomento de hábitos de vida saludables.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj0-uztiudyaj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INDICACIONES SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍA DE LOS DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INDICACIONES SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍA DE LOS DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INDICACIONES SOBRE LA PROTECCIÓN DE DATOS PERSONALES Y GARANTÍA DE LOS DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj0-uztiudyaj</odePageId>
+      <odeBlockId>block-1778348959958-elr4185r5</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj0-uztiudyaj</odePageId>
+          <odeBlockId>block-1778348959958-elr4185r5</odeBlockId>
+          <odeIdeviceId>idevice-1778348959956-iuq0ktdul</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778348959956-iuq0ktdul" title="Indicaciones protección de datos" href="{{context_path}}/content/resources/INDICACION/Indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales para tu alumnado. (1).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/INDICACION/Indicaciones fundamentales sobre protección de datos personales y garantías de derechos digitales para tu alumnado. (1).png" height="128" width="128" title="Indicaciones protección de datos" alt="Indicaciones protección de datos" titlelink="Indicaciones protección de datos " author="Patricia Pérez Romero" authorlink="https://canva.link/d4df8zn6vtnfyk5" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778348959956-iuq0ktdul","img_0":{"img":"blob:app://localhost/96e3df35-2c15-4248-9165-2fb69b573207","thumbnail":"blob:app://localhost/96e3df35-2c15-4248-9165-2fb69b573207","title":"Indicaciones protección de datos","linktitle":"Indicaciones protección de datos ","author":"Patricia Pérez Romero","linkauthor":"https://canva.link/d4df8zn6vtnfyk5","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj2-ok847287n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN PRODUCTO FINAL / HERRAMIENTA A EMPLEAR</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN PRODUCTO FINAL / HERRAMIENTA A EMPLEAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN PRODUCTO FINAL / HERRAMIENTA A EMPLEAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj2-ok847287n</odePageId>
+      <odeBlockId>block-1778328133634-8dwm5w5tb</odeBlockId>
+      <blockName>Descripción Producto Final / Herramienta a emplear</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj2-ok847287n</odePageId>
+          <odeBlockId>block-1778328133634-8dwm5w5tb</odeBlockId>
+          <odeIdeviceId>idevice-1778328133631-lvbi6wsyd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><a href="https://docs.google.com/document/d/1HiRnh0av_XCz9Tv-f-33UALYHDZcSFVxMMHlXEUVZAM/edit?usp=sharing" title="">https://docs.google.com/document/d/1HiRnh0av_XCz9Tv-f-33UALYHDZcSFVxMMHlXEUVZAM/edit?usp=sharing</a></p>
+<p style="text-align: justify;">La propuesta “Operación salud” dirigida a 1.º ESO culmina con la realización de un producto final, concretamente de una revista digital donde para su creación es fundamental el uso de la herramienta digital Canva, que presenta una serie de características que hacen que sea idónea para su uso en la SdA que planteo. De esta forma, se justifica a continuación el motivo de su elección:</p>
+<p style="text-align: justify;">Versatilidad de la herramienta / Elección según el objetivo planteado: Canva permite trabajar la expresión escrita, la creatividad, así como la estructuración de la información a presentar. El alumnado aprende a redactar esta información, así como a maquetarla y presentarla de forma apropiada y atractiva, favoreciendo el desarrollo de la competencia digital y comunicativa.</p>
+<p style="text-align: justify;">Elección según el nivel de competencia y la edad del alumnado: teniendo en cuenta que la SdA va dirigida a 1.º ESO, Canva destaca por su facilidad de uso, permitiendo que el alumnado se centre más en los contenidos que en la propia herramienta, por lo que funciona muy bien para los primeros cursos de Secundaria.</p>
+<p style="text-align: justify;">Elección según el contexto y la disponibilidad de dispositivos en el centro: el hecho de que todo el alumnado disponga de un portátil propio facilita el uso de esta herramienta, como es el caso. Pues hablamos de un centro con un buen número de dotación de dispositivos digitales, concretamente de ordenadores portátiles, aspecto que facilita enormemente el desarrollo de propuestas como la que se presenta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328133631-lvbi6wsyd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><a href=\"https://docs.google.com/document/d/1HiRnh0av_XCz9Tv-f-33UALYHDZcSFVxMMHlXEUVZAM/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1HiRnh0av_XCz9Tv-f-33UALYHDZcSFVxMMHlXEUVZAM/edit?usp=sharing</a></p>\n<p style=\"text-align: justify;\">La propuesta “Operación salud” dirigida a 1.º ESO culmina con la realización de un producto final, concretamente de una revista digital donde para su creación es fundamental el uso de la herramienta digital Canva, que presenta una serie de características que hacen que sea idónea para su uso en la SdA que planteo. De esta forma, se justifica a continuación el motivo de su elección:</p>\n<p style=\"text-align: justify;\">Versatilidad de la herramienta / Elección según el objetivo planteado: Canva permite trabajar la expresión escrita, la creatividad, así como la estructuración de la información a presentar. El alumnado aprende a redactar esta información, así como a maquetarla y presentarla de forma apropiada y atractiva, favoreciendo el desarrollo de la competencia digital y comunicativa.</p>\n<p style=\"text-align: justify;\">Elección según el nivel de competencia y la edad del alumnado: teniendo en cuenta que la SdA va dirigida a 1.º ESO, Canva destaca por su facilidad de uso, permitiendo que el alumnado se centre más en los contenidos que en la propia herramienta, por lo que funciona muy bien para los primeros cursos de Secundaria.</p>\n<p style=\"text-align: justify;\">Elección según el contexto y la disponibilidad de dispositivos en el centro: el hecho de que todo el alumnado disponga de un portátil propio facilita el uso de esta herramienta, como es el caso. Pues hablamos de un centro con un buen número de dotación de dispositivos digitales, concretamente de ordenadores portátiles, aspecto que facilita enormemente el desarrollo de propuestas como la que se presenta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj3-qdsv6za55</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS DE CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj3-qdsv6za55</odePageId>
+      <odeBlockId>block-1778337601490-kejtqovxu</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS ALUMNADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj3-qdsv6za55</odePageId>
+          <odeBlockId>block-1778337601490-kejtqovxu</odeBlockId>
+          <odeIdeviceId>idevice-1778337601487-n9hefdjik</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/pperrom2908/operacion-salud-daalsgpg5yuwvof4" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj3-qdsv6za55</odePageId>
+      <odeBlockId>block-1778337629482-gm5yw0a7p</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDO PROFESORADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj3-qdsv6za55</odePageId>
+          <odeBlockId>block-1778337629482-gm5yw0a7p</odeBlockId>
+          <odeIdeviceId>idevice-1778337629481-pwknkdawh</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wakelet.com/wake/LtQUWx5I86CG-TjuTMrD8" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS EXTRA ALUMNADO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS EXTRA ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS EXTRA ALUMNADO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+      <odeBlockId>block-1778345996577-hiijntzsb</odeBlockId>
+      <blockName>Guion reportaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+          <odeBlockId>block-1778345996577-hiijntzsb</odeBlockId>
+          <odeIdeviceId>idevice-1778345996574-cyj0tkl34</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://35mm.es/como-hacer-guion-reportaje/" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+      <odeBlockId>block-1778350200330-gluq2ksw6</odeBlockId>
+      <blockName>Modelo Reportaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+          <odeBlockId>block-1778350200330-gluq2ksw6</odeBlockId>
+          <odeIdeviceId>idevice-1778350200328-jr3kyluds</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778350200328-jr3kyluds" title="Imagen" href="{{context_path}}/content/resources/EXPLORADORES DEL SABOR.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/EXPLORADORES DEL SABOR.png" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778350200328-jr3kyluds","img_0":{"img":"blob:app://localhost/9a49c51d-2f8f-4ac1-824d-082bb638dd34","thumbnail":"blob:app://localhost/9a49c51d-2f8f-4ac1-824d-082bb638dd34","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+      <odeBlockId>block-1778410384936-8oro3unt7</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+          <odeBlockId>block-1778410384936-8oro3unt7</odeBlockId>
+          <odeIdeviceId>idevice-1778410384895-fjsl6m0yq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778410384895-fjsl6m0yq" title="Etiqueta nutricional" href="{{context_path}}/content/resources/Etiquetatge.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Etiquetatge.jpg" height="128" width="128" title="Etiqueta nutricional" alt="Etiqueta nutricional" titlelink="Etiqueta nutricional" author="Paula.Gadi" authorlink="https://commons.wikimedia.org/wiki/File%3AEtiquetatge.jpg?utm_source=chatgpt.com" license="CC BY-SA 4.0" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778410384895-fjsl6m0yq" title="Etiqueta nutricional" href="{{context_path}}/content/resources/Etiqueta_nutricional_de_un_alimento_envasado..jfif" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Etiqueta_nutricional_de_un_alimento_envasado..jfif" height="128" width="128" title="Etiqueta nutricional" alt="Etiqueta nutricional" titlelink="Etiqueta nutricional" author="Nnacho33209" authorlink="https://commons.wikimedia.org/wiki/File%3AEtiqueta_nutricional_de_un_alimento_envasado..JPG?utm_source=chatgpt.com" license="Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778410384895-fjsl6m0yq","img_0":{"img":"blob:app://localhost/56446d7a-86c3-4220-ae08-51f1b8430180","thumbnail":"blob:app://localhost/56446d7a-86c3-4220-ae08-51f1b8430180","title":"Etiqueta nutricional","linktitle":"Etiqueta nutricional","author":"Paula.Gadi","linkauthor":"https://commons.wikimedia.org/wiki/File%3AEtiquetatge.jpg?utm_source=chatgpt.com","license":"CC BY-SA 4.0"},"img_1":{"img":"blob:app://localhost/3b7b9c80-a321-4f75-80a6-332dad11af79","thumbnail":"blob:app://localhost/3b7b9c80-a321-4f75-80a6-332dad11af79","title":"Etiqueta nutricional","linktitle":"Etiqueta nutricional","author":"Nnacho33209","linkauthor":"https://commons.wikimedia.org/wiki/File%3AEtiqueta_nutricional_de_un_alimento_envasado..JPG?utm_source=chatgpt.com","license":"Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+      <odeBlockId>block-1778411233617-tvy041vjn</odeBlockId>
+      <blockName>Caso práctico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+          <odeBlockId>block-1778411233617-tvy041vjn</odeBlockId>
+          <odeIdeviceId>idevice-1778411233616-04t1ihjim</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Observando las imágenes anteriores. Responde a las siguientes preguntas:</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>- ¿Cómo se escriben los números decimales que aparecen en ambas etiquetas?</p>
+<p>- ¿Cuál de los dos productos tiene más azúcar y grasa?</p>
+<p>- ¿Cuál consumirías tú? ¿Por qué?</p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778411233616-04t1ihjim","typeGame":"Case study","history":"<p>Observando las imágenes anteriores. Responde a las siguientes preguntas:</p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>- ¿Cómo se escriben los números decimales que aparecen en ambas etiquetas?</p>\n<p>- ¿Cuál de los dos productos tiene más azúcar y grasa?</p>\n<p>- ¿Cuál consumirías tú? ¿Por qué?</p>","feedback":"","buttonCaption":""}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+      <odeBlockId>block-1778411447924-in1eiv4po</odeBlockId>
+      <blockName>Practica tu cálculo mental</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj4-1xmx71cp9</odePageId>
+          <odeBlockId>block-1778411447924-in1eiv4po</odeBlockId>
+          <odeIdeviceId>idevice-1778411447919-c2wkv5tkw</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.cerebriti.com/juegos-de-matematicas/calculo-mental-21" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj5-192likjqs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj5-192likjqs</odePageId>
+      <odeBlockId>block-1778338650770-hu38iv4m8</odeBlockId>
+      <blockName>LÍNEA TEMPORAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj5-192likjqs</odePageId>
+          <odeBlockId>block-1778338650770-hu38iv4m8</odeBlockId>
+          <odeIdeviceId>idevice-1778338650768-53o1kokz5</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://go.bubbl.us/f1898d/0bb6?/SdA-" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+      <odeBlockId>block-1778339706483-stz9we3i3</odeBlockId>
+      <blockName>Instrumentos Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+          <odeBlockId>block-1778339706483-stz9we3i3</odeBlockId>
+          <odeIdeviceId>idevice-1778339706481-8baztg8jw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><a href="https://drive.google.com/file/d/1rK_LbQal3XUGUmm9EcM9NzkpPq0IibfA/view?usp=sharing" title="">https://drive.google.com/file/d/1rK_LbQal3XUGUmm9EcM9NzkpPq0IibfA/view?usp=sharing</a></p>
+<p style="text-align: justify;">A lo largo de la SdA “Operación salud” destacamos el empleo de los siguientes instrumentos de evaluación:</p>
+<p style="text-align: justify;"><strong>- Informe / Trabajo monográfico:</strong> se centra en la realización de un estudio nutricional matemático en grupo cooperativo, donde destacamos algunos ejercicios como: la interpretación de etiquetas nutricionales de diferentes tipos de pan, y posterior lectura, descomposición y representación en la recta numérica de las cantidades de fibra de cada uno de ellos, lectura de etiquetas nutricionales de distintos productos de consumo habitual, y comparación y ordenación de los números decimales que expresan las cantidades de grasas y aceites que contienen, etc. Son actividades que permiten al docente evaluar el progreso del alumno/a de forma competencial y significativa. Este instrumento será aplicado en la evaluación formativa, con el objetivo de que el mismo pueda reforzar su aprendizaje. El informe permitirá evaluar varias dimensiones:</p>
+<p style="text-align: justify;">o Comprensión de saberes matemáticos: razonamiento matemático, interpretación y comprensión de problemas, aplicación de operaciones básicas, etc.<br />o Aplicación a contextos reales: capacidad de relacionar las matemáticas con los hábitos alimentarios.<br />o Tratamientos de datos: organización, representación, análisis y comunicación de los resultados (a través de la revista digital).<br /></p>
+<p style="text-align: justify;">A este instrumento se le asociarán una serie de criterios que serán evaluados a través de las actividades que conforman el mismo. De esta forma, la obtención de datos se recogerá principalmente a través de este informe que permitirá obtener tanto datos cualitativos como cuantitativos, a su vez, el docente deberá realizar la observación y seguimiento del trabajo abordado, recogiendo en el cuaderno docente todo aquello que sea relevante.</p>
+<p style="text-align: justify;"><strong>- Rúbrica:</strong> se empleará una rúbrica para evaluar el trabajo en grupo y el uso de las TIC, así como el diseño y la creación de la revista digital. De esta forma, se llevará a cabo el registro de la misma a través de la observación diaria del alumnado en la creación y diseño de la revista digital, así como en la valoración de la misma. Por tanto, se aplicará tanto en la evaluación formativa como en la sumativa. Tal y como ocurre en el caso anterior, al instrumento se le asignará los<br />correspondientes criterios que permitirán asignar calificaciones. A continuación, se incluyen el diseño de ambos instrumentos de evaluación: </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778339706481-8baztg8jw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><a href=\"https://drive.google.com/file/d/1rK_LbQal3XUGUmm9EcM9NzkpPq0IibfA/view?usp=sharing\" title=\"\">https://drive.google.com/file/d/1rK_LbQal3XUGUmm9EcM9NzkpPq0IibfA/view?usp=sharing</a></p>\n<p style=\"text-align: justify;\">A lo largo de la SdA “Operación salud” destacamos el empleo de los siguientes instrumentos de evaluación:</p>\n<p style=\"text-align: justify;\"><strong>- Informe / Trabajo monográfico:</strong> se centra en la realización de un estudio nutricional matemático en grupo cooperativo, donde destacamos algunos ejercicios como: la interpretación de etiquetas nutricionales de diferentes tipos de pan, y posterior lectura, descomposición y representación en la recta numérica de las cantidades de fibra de cada uno de ellos, lectura de etiquetas nutricionales de distintos productos de consumo habitual, y comparación y ordenación de los números decimales que expresan las cantidades de grasas y aceites que contienen, etc. Son actividades que permiten al docente evaluar el progreso del alumno/a de forma competencial y significativa. Este instrumento será aplicado en la evaluación formativa, con el objetivo de que el mismo pueda reforzar su aprendizaje. El informe permitirá evaluar varias dimensiones:</p>\n<p style=\"text-align: justify;\">o Comprensión de saberes matemáticos: razonamiento matemático, interpretación y comprensión de problemas, aplicación de operaciones básicas, etc.<br />o Aplicación a contextos reales: capacidad de relacionar las matemáticas con los hábitos alimentarios.<br />o Tratamientos de datos: organización, representación, análisis y comunicación de los resultados (a través de la revista digital).<br /></p>\n<p style=\"text-align: justify;\">A este instrumento se le asociarán una serie de criterios que serán evaluados a través de las actividades que conforman el mismo. De esta forma, la obtención de datos se recogerá principalmente a través de este informe que permitirá obtener tanto datos cualitativos como cuantitativos, a su vez, el docente deberá realizar la observación y seguimiento del trabajo abordado, recogiendo en el cuaderno docente todo aquello que sea relevante.</p>\n<p style=\"text-align: justify;\"><strong>- Rúbrica:</strong> se empleará una rúbrica para evaluar el trabajo en grupo y el uso de las TIC, así como el diseño y la creación de la revista digital. De esta forma, se llevará a cabo el registro de la misma a través de la observación diaria del alumnado en la creación y diseño de la revista digital, así como en la valoración de la misma. Por tanto, se aplicará tanto en la evaluación formativa como en la sumativa. Tal y como ocurre en el caso anterior, al instrumento se le asignará los<br />correspondientes criterios que permitirán asignar calificaciones. A continuación, se incluyen el diseño de ambos instrumentos de evaluación: </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+      <odeBlockId>block-1778341713413-8iqne3sai</odeBlockId>
+      <blockName>INFORME / TRABAJO MONOGRÁFICO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+          <odeBlockId>block-1778341713413-8iqne3sai</odeBlockId>
+          <odeIdeviceId>idevice-1778341713411-okd1xwrcn</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778341713411-okd1xwrcn" title="Imagen" href="{{context_path}}/content/resources/1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1.jpg" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778341713411-okd1xwrcn" title="Imagen" href="{{context_path}}/content/resources/4.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/4.jpg" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778341713411-okd1xwrcn" title="Imagen" href="{{context_path}}/content/resources/3.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/3.jpg" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1778341713411-okd1xwrcn" title="Imagen" href="{{context_path}}/content/resources/2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.jpg" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1778341713411-okd1xwrcn" title="Imagen" href="{{context_path}}/content/resources/6.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.jpg" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1778341713411-okd1xwrcn" title="Imagen" href="{{context_path}}/content/resources/5.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/5.jpg" height="128" width="128" title="Imagen" alt="Imagen" titlelink="Imagen" author="Patricia Pérez Romero" authorlink="" license="Todos los derechos reservados" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778341713411-okd1xwrcn","img_0":{"img":"blob:app://localhost/a1dac469-df91-4499-9a69-e07df4234dd4","thumbnail":"blob:app://localhost/a1dac469-df91-4499-9a69-e07df4234dd4","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"},"img_1":{"img":"blob:app://localhost/d7216d78-447f-4f8b-bb83-9f2f243fdf0a","thumbnail":"blob:app://localhost/d7216d78-447f-4f8b-bb83-9f2f243fdf0a","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"},"img_2":{"img":"blob:app://localhost/f9b75688-a119-4275-a62b-72394e4b2128","thumbnail":"blob:app://localhost/f9b75688-a119-4275-a62b-72394e4b2128","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"},"img_3":{"img":"blob:app://localhost/691abed7-e387-4887-8c1b-f4ed50ef19d9","thumbnail":"blob:app://localhost/691abed7-e387-4887-8c1b-f4ed50ef19d9","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"},"img_4":{"img":"blob:app://localhost/7a79b0ce-5445-4bc2-b853-da685ab0cc78","thumbnail":"blob:app://localhost/7a79b0ce-5445-4bc2-b853-da685ab0cc78","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"},"img_5":{"img":"blob:app://localhost/9f8ee132-c8f0-44b7-aff9-e0efaa40d830","thumbnail":"blob:app://localhost/9f8ee132-c8f0-44b7-aff9-e0efaa40d830","title":"Imagen","linktitle":"Imagen","author":"Patricia Pérez Romero","linkauthor":"","license":"Todos los derechos reservados"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+      <odeBlockId>block-1778343254627-vctoygicw</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj6-9kwiabk7p</odePageId>
+          <odeBlockId>block-1778343254627-vctoygicw</odeBlockId>
+          <odeIdeviceId>idevice-1778343254623-tswssghre</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778343254623-tswssghre%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Participaci%F3n%20en%20grupo%22%2C%22Responsabilidad%20y%20cumplimiento%22%2C%22Comunicaci%F3n%20y%20respeto%22%2C%22Organizaci%F3n%20del%20trabajo%20cooperativo%22%2C%22Uso%20de%20Canva%20y%20dise%F1o%20de%20la%20revista%22%5D%2C%22scores%22%3A%5B%22Nivel%204%20Necesita%20mejorar%22%2C%22Nivel%203%20En%20proceso%22%2C%22Nivel%202%20Adecuado%22%2C%22Nivel%201%20Excelente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Participa%20activamente%20en%20todas%20las%20tareas%20y%20ayuda%20a%20sus%20compa%F1eros/as.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Participa%20en%20la%20mayor%EDa%20de%20las%20tareas.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Participa%20poco%20y%20necesita%20recordatorios.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Apenas%20participa%20o%20dificulta%20el%20trabajo%20del%20grupo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Cumple%20siempre%20con%20su%20tarea%20y%20entrega%20el%20trabajo%20a%20tiempo.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Cumple%20casi%20siempre%20con%20su%20tarea.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22A%20veces%20no%20termina%20su%20parte%20o%20necesita%20ayuda%20constante.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20cumple%20con%20las%20tareas%20asignadas.%22%7D%5D%2C%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Escucha%2C%20respeta%20opiniones%20y%20favorece%20un%20buen%20ambiente.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Generalmente%20mantiene%20una%20actitud%20respetuosa.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22En%20ocasiones%20interrumpe%20o%20no%20escucha%20al%20grupo.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Tiene%20actitudes%20que%20dificultan%20la%20convivencia%20del%20grupo%22%7D%5D%2C%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20grupo%20se%20organiza%20muy%20bien%20y%20reparte%20tareas%20de%20forma%20equilibrada.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20grupo%20se%20organiza%20adecuadamente.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20organizaci%F3n%20es%20irregular%20y%20poco%20clara.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20existe%20organizaci%F3n%20ni%20reparto%20de%20tareas.%22%7D%5D%2C%5B%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22Utiliza%20Canva%20con%20creatividad%3B%20la%20revista%20es%20clara%2C%20atractiva%20y%20bien%20estructurada.%22%7D%2C%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22La%20revista%20tiene%20buena%20presentaci%F3n%20y%20un%20uso%20correcto%20de%20Canva.%22%7D%2C%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22La%20presentaci%F3n%20es%20sencilla%20o%20presenta%20errores%20de%20dise%F1o.%22%7D%2C%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22La%20revista%20est%E1%20incompleta%20o%20muy%20desordenada.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Participaci%F3n%20en%20grupo%22%2C%22Responsabilidad%20y%20cumplimiento%22%2C%22Comunicaci%F3n%20y%20respeto%22%2C%22Organizaci%F3n%20del%20trabajo%20cooperativo%22%2C%22Uso%20de%20Canva%20y%20dise%F1o%20de%20la%20revista%22%5D%2C%22scores%22%3A%5B%22Nivel%204%20Necesita%20mejorar%22%2C%22Nivel%203%20En%20proceso%22%2C%22Nivel%202%20Adecuado%22%2C%22Nivel%201%20Excelente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Participa%20activamente%20en%20todas%20las%20tareas%20y%20ayuda%20a%20sus%20compa%F1eros/as.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Participa%20en%20la%20mayor%EDa%20de%20las%20tareas.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Participa%20poco%20y%20necesita%20recordatorios.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Apenas%20participa%20o%20dificulta%20el%20trabajo%20del%20grupo.%22%7D%5D%2C%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Cumple%20siempre%20con%20su%20tarea%20y%20entrega%20el%20trabajo%20a%20tiempo.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Cumple%20casi%20siempre%20con%20su%20tarea.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22A%20veces%20no%20termina%20su%20parte%20o%20necesita%20ayuda%20constante.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20cumple%20con%20las%20tareas%20asignadas.%22%7D%5D%2C%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Escucha%2C%20respeta%20opiniones%20y%20favorece%20un%20buen%20ambiente.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Generalmente%20mantiene%20una%20actitud%20respetuosa.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22En%20ocasiones%20interrumpe%20o%20no%20escucha%20al%20grupo.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Tiene%20actitudes%20que%20dificultan%20la%20convivencia%20del%20grupo%22%7D%5D%2C%5B%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20grupo%20se%20organiza%20muy%20bien%20y%20reparte%20tareas%20de%20forma%20equilibrada.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20grupo%20se%20organiza%20adecuadamente.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20organizaci%F3n%20es%20irregular%20y%20poco%20clara.%22%7D%2C%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22No%20existe%20organizaci%F3n%20ni%20reparto%20de%20tareas.%22%7D%5D%2C%5B%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22Utiliza%20Canva%20con%20creatividad%3B%20la%20revista%20es%20clara%2C%20atractiva%20y%20bien%20estructurada.%22%7D%2C%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22La%20revista%20tiene%20buena%20presentaci%F3n%20y%20un%20uso%20correcto%20de%20Canva.%22%7D%2C%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22La%20presentaci%F3n%20es%20sencilla%20o%20presenta%20errores%20de%20dise%F1o.%22%7D%2C%7B%22weight%22%3A%22X%22%2C%22text%22%3A%22La%20revista%20est%E1%20incompleta%20o%20muy%20desordenada.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj7-1e7fiykfu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj7-1e7fiykfu</odePageId>
+      <odeBlockId>block-1778407121151-5jsox7mjp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj7-1e7fiykfu</odePageId>
+          <odeBlockId>block-1778407121151-5jsox7mjp</odeBlockId>
+          <odeIdeviceId>idevice-1778407121147-uvvtojqmi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1">
+<tbody>
+<tr>
+<td>TAREA</td>
+<td>CRITERIOS DE EVALUACIÓN</td>
+</tr>
+<tr>
+<td>
+<p>Tarea 1:  “Acercamiento a los números decimales”</p>
+<p>Asamblea sobre la utilidad de los números decimales en la vida cotidiana / Visionado de vídeo sobre el análisis de etiquetas nutricionales / Presentación del producto final: creación de una revista digital a través de Canva y explicación de las principales funciones de esta herramienta por parte del docente / Dinámica de juego para conocer las ideas previas a través de la aplicación Nearpod.</p>
+</td>
+<td>
+<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>
+<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarea 2: “Números decimales y su representación en la recta numérica”</p>
+<p>Explicación por parte de la docente de la composición y descomposición de números decimales y de la lectura de los mismos, empleando la herramienta digital Canva. / Lectura de números decimales, identificación de la parte entera y decimal, seguida de la composición y descomposición de una serie de números decimales. / Identificación y representación de un conjunto de números decimales en la recta numérica a partir de su descomposición en órdenes de unidades.</p>
+</td>
+<td>
+<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>
+<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarea 3: Aproximación de números decimales</p>
+<p>Explicación por parte de la docente de los pasos a seguir para aproximar números decimales por truncamiento y redondeo para su análisis e interpretación / Aproximación por truncamiento y redondeo a través de ficha interactiva. </p>
+<p><br /></p>
+</td>
+<td>
+<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>
+<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarea 4: Operaciones básicas con números decimales</p>
+<p>Presentación de operaciones combinadas de números decimales a través de la herramienta digital Canva, y posterior realización de resumen con los pasos a seguir, incorporando ejemplos / Resolución de problemas enmarcados en contextos cotidianos a través de la técnica simple de aprendizaje cooperativo “lápices al centro”.</p>
+</td>
+<td>
+<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>
+<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarea 5: Realización de estudio nutricional y creación de una revista digital</p>
+<p>Realización de un estudio nutricional matemático que permita sacar e interpretar datos reales para obtener información que se incorporarán en los reportajes de la revista digital. Y posterior maquetación de la misma a través de la herramienta digital Canva.</p>
+</td>
+<td>
+<p>6.1. Reconocer situaciones en el entorno más cercano susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo conexiones entre el mundo real y las matemáticas y usando los procesos inherentes a la investigación científica y matemática: inferir, medir, comunicar, clasificar y predecir, aplicando procedimientos sencillos en la resolución de problemas,</p>
+<p><br />10.2. Participar en el reparto de tareas que deban desarrollarse en</p>
+<p>equipo, aportando valor, asumiendo las normas de convivencia, y aplicándolas de manera constructiva, dialogante e inclusiva, reconociendo los estereotipos e ideas preconcebidas sobre las matemáticas asociadas a cuestiones individuales y responsabilizándose de la propia contribución al equipo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarea 6: Revisión y divulgación</p>
+<p>Revisión de la revista creada, corrección de errores y posterior divulgación a través de Google Classroom. </p>
+<p><br /></p>
+</td>
+<td>
+<p>10.2. Participar en el reparto de tareas que deban desarrollarse en</p>
+<p>equipo, aportando valor, asumiendo las normas de convivencia, y aplicándolas de manera constructiva, dialogante e inclusiva, reconociendo los estereotipos e ideas preconcebidas sobre las matemáticas asociadas a cuestiones individuales y responsabilizándose de la propia contribución al equipo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778407121147-uvvtojqmi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>TAREA</td>\n<td>CRITERIOS DE EVALUACIÓN</td>\n</tr>\n<tr>\n<td>\n<p>Tarea 1:  “Acercamiento a los números decimales”</p>\n<p>Asamblea sobre la utilidad de los números decimales en la vida cotidiana / Visionado de vídeo sobre el análisis de etiquetas nutricionales / Presentación del producto final: creación de una revista digital a través de Canva y explicación de las principales funciones de esta herramienta por parte del docente / Dinámica de juego para conocer las ideas previas a través de la aplicación Nearpod.</p>\n</td>\n<td>\n<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>\n<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tarea 2: “Números decimales y su representación en la recta numérica”</p>\n<p>Explicación por parte de la docente de la composición y descomposición de números decimales y de la lectura de los mismos, empleando la herramienta digital Canva. / Lectura de números decimales, identificación de la parte entera y decimal, seguida de la composición y descomposición de una serie de números decimales. / Identificación y representación de un conjunto de números decimales en la recta numérica a partir de su descomposición en órdenes de unidades.</p>\n</td>\n<td>\n<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>\n<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tarea 3: Aproximación de números decimales</p>\n<p>Explicación por parte de la docente de los pasos a seguir para aproximar números decimales por truncamiento y redondeo para su análisis e interpretación / Aproximación por truncamiento y redondeo a través de ficha interactiva. </p>\n<p><br /></p>\n</td>\n<td>\n<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>\n<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tarea 4: Operaciones básicas con números decimales</p>\n<p>Presentación de operaciones combinadas de números decimales a través de la herramienta digital Canva, y posterior realización de resumen con los pasos a seguir, incorporando ejemplos / Resolución de problemas enmarcados en contextos cotidianos a través de la técnica simple de aprendizaje cooperativo “lápices al centro”.</p>\n</td>\n<td>\n<p>5.1. Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas de los bloques de saberes formando un todo coherente, reconociendo y utilizando las conexiones entre ideas</p>\n<p>matemáticas en la resolución de problemas sencillos del entorno cercano.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tarea 5: Realización de estudio nutricional y creación de una revista digital</p>\n<p>Realización de un estudio nutricional matemático que permita sacar e interpretar datos reales para obtener información que se incorporarán en los reportajes de la revista digital. Y posterior maquetación de la misma a través de la herramienta digital Canva.</p>\n</td>\n<td>\n<p>6.1. Reconocer situaciones en el entorno más cercano susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo conexiones entre el mundo real y las matemáticas y usando los procesos inherentes a la investigación científica y matemática: inferir, medir, comunicar, clasificar y predecir, aplicando procedimientos sencillos en la resolución de problemas,</p>\n<p><br />10.2. Participar en el reparto de tareas que deban desarrollarse en</p>\n<p>equipo, aportando valor, asumiendo las normas de convivencia, y aplicándolas de manera constructiva, dialogante e inclusiva, reconociendo los estereotipos e ideas preconcebidas sobre las matemáticas asociadas a cuestiones individuales y responsabilizándose de la propia contribución al equipo.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tarea 6: Revisión y divulgación</p>\n<p>Revisión de la revista creada, corrección de errores y posterior divulgación a través de Google Classroom. </p>\n<p><br /></p>\n</td>\n<td>\n<p>10.2. Participar en el reparto de tareas que deban desarrollarse en</p>\n<p>equipo, aportando valor, asumiendo las normas de convivencia, y aplicándolas de manera constructiva, dialogante e inclusiva, reconociendo los estereotipos e ideas preconcebidas sobre las matemáticas asociadas a cuestiones individuales y responsabilizándose de la propia contribución al equipo.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozu3fj7-1e7fiykfu</odePageId>
+      <odeBlockId>block-1778408214517-98l06hhjk</odeBlockId>
+      <blockName>Para más detalle:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj7-1e7fiykfu</odePageId>
+          <odeBlockId>block-1778408214517-98l06hhjk</odeBlockId>
+          <odeIdeviceId>idevice-1778408214511-pcpipt8kq</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/18H7CuDtBgv65lpAOL_bKW6kQqaGJPYs_pmjK0WwsdaA/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozu3fj8-krjqbnrew</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozu3fj8-krjqbnrew</odePageId>
+      <odeBlockId>block-1778350710897-nd5e0nond</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozu3fj8-krjqbnrew</odePageId>
+          <odeBlockId>block-1778350710897-nd5e0nond</odeBlockId>
+          <odeIdeviceId>idevice-1778350710894-epnu12ej3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Elaborado por Patricia Pérez Romero.</p>
+<p>Recurso educativo interactivo creado con eXeLearning sobre los números decimales y el uso de las nuevas tecnologías. Incluye contenidos teóricos, actividades prácticas e instrumentos de evaluación.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778350710894-epnu12ej3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Elaborado por Patricia Pérez Romero.</p>\n<p>Recurso educativo interactivo creado con eXeLearning sobre los números decimales y el uso de las nuevas tecnologías. Incluye contenidos teóricos, actividades prácticas e instrumentos de evaluación.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
